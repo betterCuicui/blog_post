@@ -1,6 +1,6 @@
 ---
 title:  随机roomId生成
-date: 2017-07-24 11:07:23
+date: 2017-04-24 11:07:23
 tags: [mq,redis,架构]
 category: [架构]
 ---
